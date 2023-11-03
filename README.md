@@ -31,13 +31,15 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
+[desktop-main](https://github.com/Maxim-Pv/task2-frontendMentor/blob/master/screenshots/desktop-main.jpeg)
+[desktop-thank-you](https://github.com/Maxim-Pv/task2-frontendMentor/blob/master/screenshots/desktop-thak-you.jpeg)
+[mobile-main](https://github.com/Maxim-Pv/task2-frontendMentor/blob/master/screenshots/mobile-main.jpeg)
+[mobile-thank-you](https://github.com/Maxim-Pv/task2-frontendMentor/blob/master/screenshots/mobile-thank-you.jpeg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [](https://github.com/Maxim-Pv/task2-frontendMentor)
+- Live Site URL: [](https://maxim-pv.github.io/task2-frontendMentor/)
 
 ### Built with
 
@@ -50,7 +52,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Maxim-Pv](https://maxim-pv.github.io/task2-frontendMentor/)
 - Frontend Mentor - [@Maxim-Pv](https://www.frontendmentor.io/profile/Maxim-Pv)
 - Linkedin - [Maxim Pavlov](https://www.linkedin.com/in/maksim-pavlov-12b22528b/?locale=en_US)
 
