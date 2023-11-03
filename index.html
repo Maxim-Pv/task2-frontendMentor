@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png"> 
+  <title>Frontend Mentor | Interactive rating component</title>
+  <link rel="stylesheet" href="./style/style.css">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+  </style>
+
+</head>
+<body>
+  <!-- Rating state start -->
+  <div id="main-block" class="container">
+    <div class="background-star">
+      <span class="star"></span>
+    </div>
+    <h2 class="heading">How did we do?</h2>
+    <p class="text"> 
+      Please let us know how we did with your support request. All feedback is appreciated 
+      to help us improve our offering!
+    </p>
+    <div class="rating">
+      <button id="1" class="mark-rating">1</button>
+      <button id="2" class="mark-rating">2</button>
+      <button id="3" class="mark-rating">3</button>
+      <button id="4" class="mark-rating">4</button>
+      <button id="5" class="mark-rating active">5</button>
+    </div>
+    <button id="submit" class="btn-submit">SUBMIT</button>
+  </div>
+
+  <!-- Thank you state start -->
+  <div id="thanks-block" class="container cont-thanks hidden">
+    <div class="container-img">
+      <span class="thanks-img"></span>
+    </div>
+    <div class="background-selected">
+      <p class="rating-text">
+        You selected  
+        <span id="selected-rating"></span>
+        out of 5
+      </p>
+    </div>
+    <h1 class="heading">Thank you!</h1>
+    <p class="text">
+      We appreciate you taking the time to give a rating. If you ever need more support, 
+      don’t hesitate to get in touch!
+    </p>
+  </div>
+  
+  <div class="attribution">
+    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+    Coded by <a href="https://github.com/Maxim-Pv">Maxim</a>.
+  </div>
+
+  <script src="./js/main.js"></script>
+</body>
+</html>
