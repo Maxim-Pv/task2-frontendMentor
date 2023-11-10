@@ -11,7 +11,6 @@ This is a simple interactive rating component project created as a solution to t
   - [Links](#links)
   - [Built with](#built-with)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
